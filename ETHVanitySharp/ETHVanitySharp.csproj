@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <PublishAot>true</PublishAot>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="DotNetLightning.Secp256k1.Native" Version="0.0.7" />
+      <PackageReference Include="Secp256k1.Net" Version="1.0.0" />
+      <PackageReference Include="SHA3" Version="1.0.0" />
+    </ItemGroup>
+
+</Project>

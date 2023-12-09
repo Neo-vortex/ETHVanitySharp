@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETHVanitySharp", "ETHVanitySharp\ETHVanitySharp.csproj", "{E082273E-D6C3-4036-9EEB-4A577E221CE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETHVanitySharp.tests", "ETHVanitySharp.tests\ETHVanitySharp.tests.csproj", "{AF8A51C8-EAD8-41C7-849B-C9E0E473D5BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETHVanitySharp.Benchmark", "ETHVanitySharp.Benchmark\ETHVanitySharp.Benchmark.csproj", "{91286C30-82A4-4670-A60A-D69807025A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E082273E-D6C3-4036-9EEB-4A577E221CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E082273E-D6C3-4036-9EEB-4A577E221CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E082273E-D6C3-4036-9EEB-4A577E221CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E082273E-D6C3-4036-9EEB-4A577E221CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8A51C8-EAD8-41C7-849B-C9E0E473D5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8A51C8-EAD8-41C7-849B-C9E0E473D5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8A51C8-EAD8-41C7-849B-C9E0E473D5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8A51C8-EAD8-41C7-849B-C9E0E473D5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91286C30-82A4-4670-A60A-D69807025A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91286C30-82A4-4670-A60A-D69807025A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91286C30-82A4-4670-A60A-D69807025A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91286C30-82A4-4670-A60A-D69807025A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
