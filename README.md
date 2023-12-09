@@ -65,3 +65,6 @@ dotnet run
 - The ETH Vanity Address Generator outperforms [vanity-eth.tk](https://vanity-eth.tk/) by approximately 18.1 times in terms of address generation speed.
 
 *Note: The performance comparison is based on testing on an Intel Core i7 12700 with 32GB of DDR4 memory running Ubuntu 22.04.*
+
+![image](https://github.com/Neo-vortex/ETHVanitySharp/assets/40230471/c2e15b5c-f471-4680-a735-b9e9722a19fa)
+
