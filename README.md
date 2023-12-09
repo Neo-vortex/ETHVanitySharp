@@ -5,7 +5,6 @@ Generate Ethereum addresses with a custom prefix and/or postfix using the Secp25
 ## What is a Vanity Address?
 
 A Vanity Address in the context of cryptocurrency, particularly Ethereum, is a customized address that includes specific patterns or characters chosen by the user. Unlike regular cryptographic addresses generated randomly, a vanity address allows users to incorporate personalized elements, such as a name or word, into their Ethereum address.
-like : 0xDead62873462873462242...
 
 ## Why Use Vanity Addresses?
 
