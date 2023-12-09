@@ -58,7 +58,7 @@ dotnet run
 
 | Platform                        | Threads | Speed (Addresses/Second) | Performance Ratio vs Competitor |
 |---------------------------------|---------|---------------------------|--------------------------------|
-| ETH Vanity Address Generator    | 20      | 470,000                   | 18.1x                          |
+| ETHVanitySharp    | 20      | 470,000                   | 18.1x                          |
 | [Competitor: vanity-eth.tk](https://vanity-eth.tk/) | 20      | 26,000                    | 1x                             |
 
 **Performance Gain:**
